@@ -197,9 +197,9 @@ For every 1,000 USDT staked, the contract automatically executes:
 > **Verifiable Transaction**: [0x4266...3e52](https://bscscan.com/tx/0x426658b905e51a34df0e03ac3a327c6f3d2c29797b05c6b4863d06fbfb3d3e52)
 
 ````carousel
-![Stake Infographic 1](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/资料/图片/0412/stake/英文/1.png)
+![Stake Infographic 1](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/%E8%B5%84%E6%96%99/%E5%9B%BE%E7%89%87/0412/stake/%E8%8B%B1%E6%96%87/1.png)
 <!-- slide -->
-![Stake Infographic 2](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/资料/图片/0412/stake/英文/2.png)
+![Stake Infographic 2](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/%E8%B5%84%E6%96%99/%E5%9B%BE%E7%89%87/0412/stake/%E8%8B%B1%E6%96%87/2.png)
 ````
 
 ### 3.3 Fund Source Settlement
@@ -212,9 +212,9 @@ For every 1,000 USDT staked, the contract automatically executes:
 > **Verifiable Transaction**: [0xa2fa...a364](https://bscscan.com/tx/0xa2faaeb4ccc8f25058fc48934538c769c425ccfa114a349332126cb5edb3a364)
 
 ````carousel
-![Unstake Infographic 1](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/资料/图片/0412/unstake/英文/1.png)
+![Unstake Infographic 1](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/%E8%B5%84%E6%96%99/%E5%9B%BE%E7%89%87/0412/unstake/%E8%8B%B1%E6%96%87/1.png)
 <!-- slide -->
-![Unstake Infographic 2](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/资料/图片/0412/unstake/英文/2.png)
+![Unstake Infographic 2](https://raw.githubusercontent.com/ChowKwanhwa/biying/main/%E8%B5%84%E6%96%99/%E5%9B%BE%E7%89%87/0412/unstake/%E8%8B%B1%E6%96%87/2.png)
 ````
 
 ```mermaid
